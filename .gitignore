@@ -1,0 +1,9 @@
+secrets.env
+nohup.out
+output.log
+to_remove.txt
+*.secrets.env
+rift
+*.zip
+dependencies
+*.qcow

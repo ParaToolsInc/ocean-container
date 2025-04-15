@@ -1,0 +1,5 @@
+assets/*.qcow
+assets/ocean
+assets/annex
+assets/rift
+*.log
