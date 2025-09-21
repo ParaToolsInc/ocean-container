@@ -19,8 +19,8 @@ Contributing to the Ocean project can be broken down into these high-level steps
 5. [Test your changes, locally](#5-test-your-changes-locally)
 6. [Submit your changes for review via a merge-request](#6-submit-your-merge-request)
 7. [Verify that your Merge Request Passes GitLab CI](#7-verify-that-your-merge-request-passes-gitlab-ci)
-8. [Update your Merge Request (if needed)](8-update-your-merge-request-if-needed)
-9. [Merge your changes](9-merge-your-changes)
+8. [Update your Merge Request (if needed)](#8-update-your-merge-request-if-needed)
+9. [Merge your changes](#9-merge-your-changes)
 
 <br />
 
