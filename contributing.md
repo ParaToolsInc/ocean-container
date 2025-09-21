@@ -618,8 +618,8 @@ You can merge your changes to the target branch once CI passes and the appropria
 
 <img width="1387" height="627" alt="Merge-request rubygem-text merge" src="https://github.com/user-attachments/assets/2dee6190-bf2a-4b4b-8241-d1f0740bdede" />
 
+<br />
 
-
-
+<br />
 
 
